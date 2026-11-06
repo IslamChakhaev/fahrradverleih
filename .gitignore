@@ -1,0 +1,15 @@
+# Build artifacts
+*.exe
+*.test
+*.out
+/fahrradverleih
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+.DS_Store
+Thumbs.db
+
+# Submission archive
+*.zip
